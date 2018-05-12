@@ -1,0 +1,29 @@
+_repo: Eight-or-Nine-Wise-Words-about-Letter-Writing_38065
+_version: 0.1.0
+alternative_title: 8 or 9 Wise Words about Letter-Writing
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+description: ''
+gutenberg_issued: '2011-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Letter writing'
+- !lcc 'PR'
+title: Eight or Nine Wise Words about Letter-Writing
+url: http://www.gutenberg.org/ebooks/38065
